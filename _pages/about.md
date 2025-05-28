@@ -72,16 +72,10 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 # Service
 - **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sept 2024 – Present)
-
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
-
 - **Vice President**, Youth Volunteer Association, USTC (Sept 2021 – Jul 2022)  
-  - Led the association’s rural outreach program, earning Outstanding Team, Individual, and Research Report Awards.  
-  - Organized regular volunteer activities and received the "Two-Star Volunteer" award.  
-
 - **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sept 2020 – Jul 2021)  
-  - Managed the association’s official WeChat account.
-  - Received the "One-Star Volunteer" award.
+
 
 <div style="text-align: center; transform: scale(0.5); transform-origin: top center;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QE-4g5YC0OPMwEWJqigZA1hwMzkDrtZOXrNmQ0npvEY&cl=ffffff&w=a"></script>

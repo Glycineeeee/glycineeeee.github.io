@@ -6,19 +6,19 @@
 
 main:
 - title: "Education"
-  url: "/about/#education"
+  url: "/#education"
 
 - title: "Publications"
-  url: "/about/#publications"
+  url: "/#publications"
 
 - title: "Honors"
-  url: "/about/#honors"
+  url: "/#honors"
 
 - title: "Experiences"
-  url: "/about/#experiences"
+  url: "/#experiences"
 
 - title: "Services"
-  url: "/about/#services"
+  url: "/#services"
 
 
   # - title: "Teaching"

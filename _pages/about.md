@@ -41,7 +41,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 ---
 
-# Honors {honors}
+# Honors {#honors}
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
 - **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
 - **First-class Academic Scholarship**, USTC, 2023
@@ -52,7 +52,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 ---
 
-# Experiences {experiences}
+# Experiences {#experiences}
 - **Algorithm Engineer Intern**, Huawei Technologies Co., Ltd., Hefei, China (Jul 2024 – Oct 2024)  
   - Simulated full and incremental EC (Erasure Coding) workflows for distributed SSU modeling.  
   - Designed algorithms for IO aggregation and EC mode cost comparison, improving storage efficiency.  

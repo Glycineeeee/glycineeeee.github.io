@@ -39,8 +39,6 @@ I am a Master's student in Computer Science at the [University of Science and Te
    <br><span style="font-size: smaller;">\* Equal contribution</span><br>
    In *IEEE/ACM International Symposium on Quality of Service*, 2025.
 
-
-
 ---
 
 # Honors
@@ -54,7 +52,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 ---
 
-# Experience
+# Experiences
 - **Algorithm Engineer Intern**, Huawei Technologies Co., Ltd., Hefei, China (Jul 2024 – Oct 2024)  
   - Simulated full and incremental EC (Erasure Coding) workflows for distributed SSU modeling.  
   - Designed algorithms for IO aggregation and EC mode cost comparison, improving storage efficiency.  
@@ -70,7 +68,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 ---
 
-# Service
+# Services
 - **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sept 2024 – Present)
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
 - **Vice President**, Youth Volunteer Association, USTC (Sept 2021 – Jul 2022)  

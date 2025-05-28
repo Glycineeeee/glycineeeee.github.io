@@ -6,13 +6,13 @@
 
 main:
 - title: "Education"
-  url: "_pages/about/#education"
+  url: "/about/#education"
 
 - title: "Publications"
-  url: "_pages/about/#publications"
+  url: "/about/#publications"
 
 - title: "Honors"
-  url: "_pages/about/#honors"
+  url: "/about/#honors"
 
 - title: "Experiences"
   url: "/about/#experiences"

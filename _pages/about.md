@@ -8,13 +8,13 @@ redirect_from:
 I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie in developing efficient and trustworthy machine learning systems and algorithms for real-world intelligent applications. I am actively seeking <span style='color: red;'>2025 summer research internships</span> and <span style='color: red;'>Ph.D. opportunities for Fall 2026</span> worldwide. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:jingmiao@mail.ustc.edu.cn">email</a>. You can find my CV <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>.
 
 
-# Education
+# Education {#education}
 - M.E. in Computer Science and Technology, USTC, 2023 - 2026 (Expected)
 - B.E. in Information Security, USTC, 2019 - 2023
 
 ---
 
-# Publications
+# Publications {#publications}
 
 1. **<span style="color: red;">[Security'25]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
    <u>Jingmiao Zhang</u>, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
@@ -41,7 +41,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 ---
 
-# Honors
+# Honors {honors}
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
 - **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
 - **First-class Academic Scholarship**, USTC, 2023
@@ -52,7 +52,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 ---
 
-# Experiences
+# Experiences {experiences}
 - **Algorithm Engineer Intern**, Huawei Technologies Co., Ltd., Hefei, China (Jul 2024 – Oct 2024)  
   - Simulated full and incremental EC (Erasure Coding) workflows for distributed SSU modeling.  
   - Designed algorithms for IO aggregation and EC mode cost comparison, improving storage efficiency.  
@@ -68,7 +68,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 ---
 
-# Services
+# Services {#services}
 - **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sept 2024 – Present)
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
 - **Vice President**, Youth Volunteer Association, USTC (Sept 2021 – Jul 2022)  

@@ -17,6 +17,8 @@ main:
 - title: "Experiences"
   url: "/about/#experiences"
 
+- title: "Services"
+  url: "/about/#services"
 
 
   # - title: "Teaching"

@@ -76,5 +76,5 @@ I am a Master's student in Computer Science at the [University of Science and Te
 
 
 <div style="text-align: center; transform: scale(0.5); transform-origin: top center;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QE-4g5YC0OPMwEWJqigZA1hwMzkDrtZOXrNmQ0npvEY&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QE-4g5YC0OPMwEWJqigZA1hwMzkDrtZOXrNmQ0npvEY"></script>
 </div>

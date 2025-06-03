@@ -75,6 +75,6 @@ I am a Master's student in Computer Science at the [University of Science and Te
 - **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sept 2020 – Jul 2021)  
 
 
-<div style="text-align: center; transform: scale(0.5); transform-origin: top center;">
+<div style="text-align: center; transform: scale(0.25); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QE-4g5YC0OPMwEWJqigZA1hwMzkDrtZOXrNmQ0npvEY"></script>
 </div>

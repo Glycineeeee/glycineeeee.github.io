@@ -38,6 +38,8 @@ I am a Master's student in Computer Science at the [University of Science and Te
    Haikuo Yu\*, <u>Jingmiao Zhang</u>\*, Haohua Du, Kaiwen Guo, Xiang-Yang Li.
    <br><span style="font-size: smaller;">\* Equal contribution</span><br>
    In *IEEE/ACM International Symposium on Quality of Service*, 2025.
+   <br>
+   <a href="https://iwqos2025.ieee-iwqos.org/program/full-program" target="_blank">[Paper]</a>
 
 ---
 
@@ -45,10 +47,10 @@ I am a Master's student in Computer Science at the [University of Science and Te
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
 - **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
 - **First-class Academic Scholarship**, USTC, 2023
-- **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sept 2022
+- **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sep 2022
 - **Meritorious Winner**, Mathematical Contest in Modeling (MCM), USA, Feb 2022  
 - **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), Nov 2021
-- **Outstanding Student Scholarship**, USTC, Sept 2021
+- **Outstanding Student Scholarship**, USTC, Sep 2021
 
 ---
 
@@ -58,7 +60,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
   - Designed algorithms for IO aggregation and EC mode cost comparison, improving storage efficiency.  
   - Implemented hot stripe simulation and load-balanced EC disk scheduling strategies.
  
-- **Algorithm Engineer Intern**, NIO Inc., Hefei, China (Sept 2023 – Mar 2025)  
+- **Algorithm Engineer Intern**, NIO Inc., Hefei, China (Sep 2023 – Mar 2025)  
   - Designed a privacy protection solution for speech data generated in in-cabin and after-sales services.  
   - Enabled decryption of protected data for specific information based on user or task permissions.
  
@@ -69,10 +71,11 @@ I am a Master's student in Computer Science at the [University of Science and Te
 ---
 
 # Services {#services}
-- **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sept 2024 – Present)
+- **Teaching Assistant**, Freshman Seminar, USTC (Sep 2024 - Present)
+- **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sep 2024 – Jan 2025)
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
-- **Vice President**, Youth Volunteer Association, USTC (Sept 2021 – Jul 2022)  
-- **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sept 2020 – Jul 2021)  
+- **Vice President**, Youth Volunteer Association, USTC (Sep 2021 – Jul 2022)  
+- **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sep 2020 – Jul 2021)  
 
 
 <div style="text-align: center; transform: scale(0.25); transform-origin: top center;">

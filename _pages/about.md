@@ -32,7 +32,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
    Suyuan Liu, <u>Jingmiao Zhang</u>, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
    In *IEEE International Conference on Computer Communications*, 2025.
    <br>
-   <a href="https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference" target="_blank">[Paper]</a>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11044731" target="_blank">[Paper]</a>
 
 5. **<span style="color: red;">[IWQoS'25]</span> InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations.**  
    Haikuo Yu\*, <u>Jingmiao Zhang</u>\*, Haohua Du, Kaiwen Guo, Xiang-Yang Li.

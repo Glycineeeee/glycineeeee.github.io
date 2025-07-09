@@ -34,7 +34,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
    <br>
    <a href="https://ieeexplore.ieee.org/abstract/document/11044731" target="_blank">[Paper]</a>
 
-5. **<span style="color: red;">[IWQoS'25]</span> InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations.**  
+4. **<span style="color: red;">[IWQoS'25]</span> InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations.**  
    Haikuo Yu\*, <u>Jingmiao Zhang</u>\*, Haohua Du, Kaiwen Guo, Xiang-Yang Li.
    <br><span style="font-size: smaller;">\* Equal contribution</span><br>
    In *IEEE/ACM International Symposium on Quality of Service*, 2025.
@@ -75,7 +75,8 @@ I am a Master's student in Computer Science at the [University of Science and Te
 - **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sep 2024 – Jan 2025)
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
 - **Vice President**, Youth Volunteer Association, USTC (Sep 2021 – Jul 2022)  
-- **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sep 2020 – Jul 2021)  
+- **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sep 2020 – Jul 2021)
+- **Cultural Affairs Committee Member**, School of Management, USTC (Sep 2019 – Jul 2020)
 
 
 <div style="text-align: center; transform: scale(0.25); transform-origin: top center;">

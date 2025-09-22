@@ -39,14 +39,14 @@ I am a Master's student in Computer Science at the [University of Science and Te
    <br><span style="font-size: smaller;">\* Equal contribution</span><br>
    In *IEEE/ACM International Symposium on Quality of Service*, 2025.
    <br>
-   <a href="https://iwqos2025.ieee-iwqos.org/program/full-program" target="_blank">[Paper]</a>
+   <a href="https://ieeexplore.ieee.org/document/11143478" target="_blank">[Paper]</a>
 
 ---
 
 # Honors {#honors}
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
 - **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
-- **First-class Academic Scholarship**, USTC, 2023
+- **Academic Scholarship**, USTC, Sep 2023, 2024
 - **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sep 2022
 - **Meritorious Winner**, Mathematical Contest in Modeling (MCM), USA, Feb 2022  
 - **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), Nov 2021

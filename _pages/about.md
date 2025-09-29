@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie in developing efficient and trustworthy machine learning systems and algorithms for real-world intelligent applications. I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026</span> worldwide. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:jingmiao@mail.ustc.edu.cn">email</a>. You can find my CV <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>.
+I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie in developing efficient and trustworthy machine learning systems and algorithms for real-world intelligent applications, with a focus on privacy-preserving machine learning, LLM security & privacy, data security & privacy, and IoT security & privacy. I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026</span> worldwide. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:jingmiao@mail.ustc.edu.cn">email</a>. You can find my CV <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>.
 
 
 # Education {#education}

@@ -46,7 +46,7 @@ I am a Master's student in Computer Science at the [University of Science and Te
 # Honors {#honors}
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
 - **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
-- **Academic Scholarship**, USTC, Sep 2023, 2024
+- **Academic Scholarship**, USTC, Sep 2023, 2024, 2025
 - **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sep 2022
 - **Meritorious Winner**, Mathematical Contest in Modeling (MCM), USA, Feb 2022  
 - **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), Nov 2021

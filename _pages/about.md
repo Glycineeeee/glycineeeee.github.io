@@ -20,25 +20,21 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 
 
 # 📄 Publications {#publications}
-
 1. **<span style="color: red;">[Security'25]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
    <u>Jingmiao Zhang</u>, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
    In *The 34th USENIX Security Symposium*, 2025.
    <br>
    <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-jingmiao" target="_blank">[Paper]</a>
-
 2. **<span style="color: red;">[Security'25]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.** 
    Zhiqiang Wang, Jiahui Hou, Haifeng Sun, <u>Jingmiao Zhang</u>, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 34th USENIX Security Symposium*, 2025.
    <br>
    <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/wang-zhiqiang" target="_blank">[Paper]</a>
-
 3. **<span style="color: red;">[INFOCOM'25]</span> AMoS: Autonomous Multimodal POI Standardization without Extra Annotation.**  
    Suyuan Liu, <u>Jingmiao Zhang</u>, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
    In *IEEE International Conference on Computer Communications*, 2025.
    <br>
    <a href="https://ieeexplore.ieee.org/abstract/document/11044731" target="_blank">[Paper]</a>
-
 4. **<span style="color: red;">[IWQoS'25]</span> InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations.**  
    Haikuo Yu\*, <u>Jingmiao Zhang</u>\*, Haohua Du, Kaiwen Guo, Xiang-Yang Li.
    <br><span style="font-size: smaller;">\* Equal contribution</span><br>
@@ -47,29 +43,24 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
    <a href="https://ieeexplore.ieee.org/document/11143478" target="_blank">[Paper]</a>
 
 
-# 🏆 Honors {#honors}
-- **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
-- **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
-- **Academic Scholarship**, USTC, Sep 2023, 2024, 2025
-- **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sep 2022
-- **Meritorious Winner**, Mathematical Contest in Modeling (MCM), USA, Feb 2022  
-- **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), Nov 2021
-- **Outstanding Student Scholarship**, USTC, Sep 2021
-
-
 # 🏢 Internships {#internships}
 - **Algorithm Engineer Intern**, Huawei Technologies Co., Ltd., Hefei, China (Jul 2024 – Oct 2024)  
   - Simulated full and incremental EC (Erasure Coding) workflows for distributed SSU modeling.  
   - Designed algorithms for IO aggregation and EC mode cost comparison, improving storage efficiency.  
   - Implemented hot stripe simulation and load-balanced EC disk scheduling strategies.
- 
 - **Algorithm Engineer Intern**, NIO Inc., Hefei, China (Sep 2023 – Mar 2025)  
   - Designed a privacy protection solution for speech data generated in in-cabin and after-sales services.  
   - Enabled decryption of protected data for specific information based on user or task permissions.
- 
-- **Summer Workshop Participant**, National University of Singapore (May 2022 – Jul 2022)  
-  - Attended lectures on simulation, security, big data, and cloud computing.  
-  - Contributed as part of a four-member team to complete a practical project and course paper.
+
+
+# 🏆 Honors {#honors}
+- **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, China Computer Federation, Nov 2024  
+- **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
+- **Academic Scholarship**, USTC, Sep 2023, 2024, 2025
+- **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sep 2022
+- **Meritorious Winner**, Mathematical Contest in Modeling (MCM), COMAP, Feb 2022  
+- **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), iGEM Foundation, Nov 2021
+- **Outstanding Student Scholarship**, USTC, Sep 2021
 
 
 # 🤝 Services {#services}

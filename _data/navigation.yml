@@ -15,7 +15,7 @@ main:
   url: "/#publications"
 
 - title: "Research Experiences"
-  url:"/#research"
+  url: "/#research"
 
 - title: "Internships"
   url: "/#internships"
@@ -26,8 +26,8 @@ main:
 - title: "Services"
   url: "/#services"
 
-- title:"Skills"
-  url:"/#skills"
+- title: "Skills"
+  url: "/#skills"
 
   # - title: "Teaching"
   #   url: /teaching/    

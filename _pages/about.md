@@ -53,7 +53,7 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
   - Enabled decryption of protected data for specific information based on user or task permissions.
 
 
-# 🏆 Honors {#honors}
+# 🏆 Academic Awards {#awards}
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, China Computer Federation, Nov 2024  
 - **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
 - **Academic Scholarship**, USTC, Sep 2023, 2024, 2025

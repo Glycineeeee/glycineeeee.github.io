@@ -13,9 +13,13 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 - M.E. in Computer Science and Technology, USTC, Sep 2023 - Jun 2026 (Expected)
 - B.E. in Information Security, USTC, Sep 2019 - Jul 2023
 
----
 
-# Publications {#publications}
+# 🔬 Research Interests {#research}
+- **Security and Privacy**: Secure and Trustworthy AI; Adversarial Machine Learning; Mobile and Network Security; System Security; Privacy-Preserving Computation.
+- **Mobile and Intelligent Systems**: Edge Intelligence; Ubiquitous Computing; Embodied AI; Agentic AI.
+
+
+# 📄 Publications {#publications}
 
 1. **<span style="color: red;">[Security'25]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
    <u>Jingmiao Zhang</u>, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
@@ -23,7 +27,7 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
    <br>
    <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-jingmiao" target="_blank">[Paper]</a>
 
-2. **<span style="color: red;">[Security'25]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
+2. **<span style="color: red;">[Security'25]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.** 
    Zhiqiang Wang, Jiahui Hou, Haifeng Sun, <u>Jingmiao Zhang</u>, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 34th USENIX Security Symposium*, 2025.
    <br>
@@ -42,9 +46,8 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
    <br>
    <a href="https://ieeexplore.ieee.org/document/11143478" target="_blank">[Paper]</a>
 
----
 
-# Honors {#honors}
+# 🏆 Honors {#honors}
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
 - **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
 - **Academic Scholarship**, USTC, Sep 2023, 2024, 2025
@@ -53,9 +56,8 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 - **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), Nov 2021
 - **Outstanding Student Scholarship**, USTC, Sep 2021
 
----
 
-# Experiences {#experiences}
+# 🏢 Internships {#internships}
 - **Algorithm Engineer Intern**, Huawei Technologies Co., Ltd., Hefei, China (Jul 2024 – Oct 2024)  
   - Simulated full and incremental EC (Erasure Coding) workflows for distributed SSU modeling.  
   - Designed algorithms for IO aggregation and EC mode cost comparison, improving storage efficiency.  
@@ -69,9 +71,8 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
   - Attended lectures on simulation, security, big data, and cloud computing.  
   - Contributed as part of a four-member team to complete a practical project and course paper.
 
----
 
-# Services {#services}
+# 🤝 Services {#services}
 - **Teaching Assistant**, Freshman Seminar, USTC (Sep 2024 - Present)
 - **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sep 2024 – Jan 2025)
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)

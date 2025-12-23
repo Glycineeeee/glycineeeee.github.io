@@ -5,12 +5,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie in developing efficient and trustworthy machine learning systems and algorithms for real-world intelligent applications, with a focus on security, privacy and mobile computing. I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026</span> worldwide. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:jingmiao@mail.ustc.edu.cn">email</a>. You can find my CV <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>.
+I am a final-year Master's student in Computer Science and Technology at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests lie at the intersection of security, privacy, and mobile computing, 
+with a focus on efficient and trustworthy machine learning systems and algorithms for real-world intelligent applications. I am actively seeking <span style='color: red;'>Ph.D. opportunities for Fall 2026</span> worldwide. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:jingmiao@mail.ustc.edu.cn">email</a>. You can find my CV <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>.
 
 
-# Education {#education}
-- M.E. in Computer Science and Technology, USTC, 2023 - 2026 (Expected)
-- B.E. in Information Security, USTC, 2019 - 2023
+# 🎓 Education {#education}
+- M.E. in Computer Science and Technology, USTC, Sep 2023 - Jun 2026 (Expected)
+- B.E. in Information Security, USTC, Sep 2019 - Jul 2023
 
 ---
 

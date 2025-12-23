@@ -40,7 +40,7 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
    <br><span style="font-size: smaller;">\* Equal contribution</span><br>
    In *IEEE/ACM International Symposium on Quality of Service*, 2025.
    <br>
-   <a href="https://ieeexplore.ieee.org/document/11143478" target="_blank">[Paper]</a>
+   <a href="https://ieeexplore.ieee.org/document/11143478" target="_blank">[Paper]</a><a href="https://github.com/haikuoY/InvisiCode" target="_blank">[Code]</a>
 
 
 # 🧪 Research Experiences {#research}

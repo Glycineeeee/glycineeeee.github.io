@@ -75,6 +75,14 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 - **Cultural Affairs Committee Member**, School of Management, USTC (Sep 2019 – Jul 2020)
 
 
+# 🛠️ Skills {#skills}
+- Programming languages: Python, C/C++, MATLAB, Java, Swift
+- Web Technologies: HTML, CSS, JavaScript
+- Deep Learning Tools: PyTorch, Tensorflow
+- Miscellaneous: MySQL, Linux, Git, LaTeX, Markdown
+- Language: English: Professional working proficiency (TOEFL 92), Chinese: Native
+
+
 <div style="text-align: center; transform: scale(0.25); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QE-4g5YC0OPMwEWJqigZA1hwMzkDrtZOXrNmQ0npvEY"></script>
 </div>

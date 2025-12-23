@@ -14,7 +14,7 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 - B.E. in Information Security, USTC, Sep 2019 - Jul 2023
 
 
-# 🔬 Research Interests {#research}
+# 🔬 Research Interests {#interests}
 - **Security and Privacy**: Secure and Trustworthy AI; Adversarial Machine Learning; Mobile and Network Security; System Security; Privacy-Preserving Computation.
 - **Mobile and Intelligent Systems**: Edge Intelligence; Ubiquitous Computing; Embodied AI; Agentic AI.
 

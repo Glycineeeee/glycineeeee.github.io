@@ -44,6 +44,14 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 
 
 # 🧪 Research Experiences {#research}
+<div style="display:flex;align-items:center;gap:20px;">
+  <img src="/files/3-speechguard.jpg" width="32%" style="border-radius:8px;">
+  <div>
+    <b>SpeechGuard: Recoverable and Customizable Speech Privacy Protection</b>
+    <br> USENIX Security'25
+    <br> Recoverable voice privacy protection enabling user-controllable decryption...
+  </div>
+</div>
 
 
 # 🏢 Internships {#internships}

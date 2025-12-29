@@ -90,8 +90,8 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 - **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sep 2024 – Jan 2025)
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
 - **Vice President**, Youth Volunteer Association, USTC (Sep 2021 – Jul 2022)  
-- **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sep 2020 – Jul 2021)
-- **Cultural Affairs Committee Member**, School of Management, USTC (Sep 2019 – Jul 2020)
+- **Publicity Lead**, Youth Volunteer Association, USTC (Sep 2020 – Jul 2021)
+- **Cultural Activities Coordinator**, School of Management, USTC (Sep 2019 – Jul 2020)
 
 
 # 🛠️ Skills {#skills}

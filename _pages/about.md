@@ -44,7 +44,7 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 
 
 # 🧪 Research Experiences {#research}
-<img src="/files/1-trajectory.jpg" alt="1-trajectory" width="100%" style="border-radius: 10px;">
+<img src="/files/1-trajectory.png" alt="1-trajectory" width="100%" style="border-radius: 10px;">
 
 ### Personalized Privacy Protection for Unstructured Data
 <img src="/files/3-speechguard.jpg" alt="SpeechGuard" width="60%" style="border-radius: 10px;">

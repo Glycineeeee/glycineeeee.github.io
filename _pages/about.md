@@ -44,14 +44,13 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 
 
 # 🧪 Research Experiences {#research}
-<div style="display:flex;align-items:center;gap:20px;">
-  <img src="/files/3-speechguard.jpg" width="32%" style="border-radius:8px;">
-  <div>
-    <b>SpeechGuard: Recoverable and Customizable Speech Privacy Protection</b>
-    <br> USENIX Security'25
-    <br> Recoverable voice privacy protection enabling user-controllable decryption...
-  </div>
-</div>
+
+### Personalized Privacy Protection for Unstructured Data
+<img src="/files/3-speechguard.jpg" alt="SpeechGuard" width="60%" style="border-radius: 10px;">
+- Focus: Addressed privacy risks in user-generated data by developing protection mechanisms for speech, visual content, and datasets that adapt to different permission groups or machine learning tasks.
+- Designed SpeechGuard, a recoverable and customizable speech privacy protection system that integrates multi-parameter reversible warping and adaptive text encryption with hierarchical access control, achieving strong privacy without losing usability. SpeechGuard demonstrates superior anonymity, sensitive content
+confidentiality, and attack resistance over three baseline systems.
+- Contribution: First author of SpeechGuard, accepted at USENIX Security 2025, leading ideas, experiments, and writing; also contributed to another paper on task-oriented data privacy protection.
 
 
 # 🏢 Internships {#internships}

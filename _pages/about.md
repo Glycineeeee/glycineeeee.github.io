@@ -51,6 +51,19 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
    - Focus: Addressed privacy risks in user-generated data by developing protection mechanisms for speech, visual content, and datasets that adapt to different permission groups or machine learning tasks.
    - Designed SpeechGuard, a recoverable and customizable speech privacy protection system that integrates multi-parameter reversible warping and adaptive text encryption with hierarchical access control, achieving strong privacy without losing usability. SpeechGuard demonstrates superior anonymity, sensitive content confidentiality, and attack resistance over three baseline systems.
    - Contribution: First author of SpeechGuard, accepted at *USENIX Security 2025*, leading ideas, experiments, and writing; also contributed to another paper on task-oriented data privacy protection.
+3. **[2023-2024] Autonomous Multimodal POI Standardization**
+   - Focus: Developed a multimodal POI standardization framework that generates standardized location representations from informal user text, uncertain indoor positioning, and Wi-Fi signals.
+   - Designed a nearest-neighbor matching algorithm integrating trajectory-aware GeoEncoder, ChineseBERT-based text embeddings, and Wi-Fi features, followed by FINCH clustering and contrastive learning for iterative refinement, achieving over 10% higher recall and improved POI matching robustness compared with baseline systems.
+   - Contribution: Participated in idea discussions and baseline reproduction. Second-author paper AMoS accepted at *IEEE INFOCOM 2025*.
+4. **[2024-2025] Noise-Aware Screen-Camera Communication.**
+   - Focus: Developed InvisiCode, a noise-aware, imperceptible, and high-capacity screen-camera communication system that embeds digital information into images without compromising visual quality.
+   - Designed an adaptive DCT-based encoding algorithm with an optimized and lightweight U²-Net for precise region localization, achieving 784 bits per frame at BER<0.05 and significantly outperforming prior intra-frame methods.
+   - Contribution: Participated in idea discussions, optimized and lightweighted the U²-Net model, and contributed to most of the paper writing (excluding evaluation). Co-first author paper accepted at *IEEE/ACM IWQoS 2025*.
+5. **[2025] Backdoor Attacks on Large Audio Language Models.**
+   - Focus: Investigating backdoor vulnerabilities and corresponding defenses for multimodal and large audio language models, emphasizing real-time, continuous acoustic triggers and robustness across deployment conditions.
+   - Surveying state-of-the-art multimodal models (e.g., Qwen3-Omni, Mini-Omni2, MiniCPM-O 2.6) and establishing an evaluation pipeline to measure attack effectiveness and stealthiness.
+   - Contributing to the experimental framework by curating multilingual speech datasets and trigger variants, and implementing baseline insertion and evaluation.
+
 
 # 🏢 Internships {#internships}
 - **Algorithm Engineer Intern**, Huawei Technologies Co., Ltd., Hefei, China (Jul 2024 – Oct 2024)  

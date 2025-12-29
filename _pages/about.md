@@ -47,11 +47,11 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 <img src="/files/1-trajectory.png" alt="1-trajectory" width="100%" style="border-radius: 10px;">
 1. **[2022] School of Computing Summer Workshop.** 
    - Explored audio watermarking algorithms and proposed a hybrid scheme combining DWT and LSB methods to improve robustness and imperceptibility, as part of a four-member research project.
-2. **[2023-2024] Personalized Privacy Protection for Unstructured Data**
+2. **[2023-2024] Personalized Privacy Protection for Unstructured Data.**
    - Focus: Addressed privacy risks in user-generated data by developing protection mechanisms for speech, visual content, and datasets that adapt to different permission groups or machine learning tasks.
    - Designed SpeechGuard, a recoverable and customizable speech privacy protection system that integrates multi-parameter reversible warping and adaptive text encryption with hierarchical access control, achieving strong privacy without losing usability. SpeechGuard demonstrates superior anonymity, sensitive content confidentiality, and attack resistance over three baseline systems.
    - Contribution: First author of SpeechGuard, accepted at *USENIX Security 2025*, leading ideas, experiments, and writing; also contributed to another paper on task-oriented data privacy protection.
-3. **[2023-2024] Autonomous Multimodal POI Standardization**
+3. **[2023-2024] Autonomous Multimodal POI Standardization.**
    - Focus: Developed a multimodal POI standardization framework that generates standardized location representations from informal user text, uncertain indoor positioning, and Wi-Fi signals.
    - Designed a nearest-neighbor matching algorithm integrating trajectory-aware GeoEncoder, ChineseBERT-based text embeddings, and Wi-Fi features, followed by FINCH clustering and contrastive learning for iterative refinement, achieving over 10% higher recall and improved POI matching robustness compared with baseline systems.
    - Contribution: Participated in idea discussions and baseline reproduction. Second-author paper AMoS accepted at *IEEE INFOCOM 2025*.

@@ -45,13 +45,13 @@ with a focus on efficient and trustworthy machine learning systems and algorithm
 
 # 🧪 Research Experiences {#research}
 <img src="/files/1-trajectory.png" alt="1-trajectory" width="100%" style="border-radius: 10px;">
-
-### Personalized Privacy Protection for Unstructured Data
-<img src="/files/3-speechguard.jpg" alt="SpeechGuard" width="60%" style="border-radius: 10px;">
-- Focus: Addressed privacy risks in user-generated data by developing protection mechanisms for speech, visual content, and datasets that adapt to different permission groups or machine learning tasks.
-- Designed SpeechGuard, a recoverable and customizable speech privacy protection system that integrates multi-parameter reversible warping and adaptive text encryption with hierarchical access control, achieving strong privacy without losing usability. SpeechGuard demonstrates superior anonymity, sensitive content
-confidentiality, and attack resistance over three baseline systems.
-- Contribution: First author of SpeechGuard, accepted at USENIX Security 2025, leading ideas, experiments, and writing; also contributed to another paper on task-oriented data privacy protection.
+<img src="/files/2-nus.jpg" alt="2-nus" width="100%" style="border-radius: 10px;">
+<img src="/files/3-speechguard.jpg" alt="3-speechguard" width="100%" style="border-radius: 10px;">
+<img src="/files/4-task.jpg" alt="4-task" width="100%" style="border-radius: 10px;">
+<img src="/files/5-amos.jpg" alt="5-amos" width="100%" style="border-radius: 10px;">
+<img src="/files/6-invisicode.jpg" alt="6-invisicode" width="100%" style="border-radius: 10px;">
+<img src="/files/7-backdoor.jpg" alt="7-backdoor" width="100%" style="border-radius: 10px;">
+(Research Experience posters on this webpage were supported by NotebookLM.)
 
 
 # 🏢 Internships {#internships}

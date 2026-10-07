@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Jingmiao Zhang is a PhD student in Electrical and Computer Engineering at UCLA, researching LLM agent security, machine learning privacy, and speech privacy.">
+  <meta name="theme-color" content="#f6f5f0">
+  <title>Jingmiao Zhang | AI Security & Privacy</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="site-shell">
+  <aside class="sidebar">
+    <div class="profile">
+      <h1>Jingmiao <br>Zhang</h1>
+      <p class="chinese-name" lang="zh-Hans">张婧苗</p>
+      <p class="role">PhD Student · UCLA</p>
+      <p class="department">Electrical &amp; Computer<br>Engineering</p>
+      <p class="pronouns">Pronouns: she/her/hers</p>
+      <img class="profile-photo" src="assets/jingmiao.jpg" alt="Jingmiao Zhang outdoors" width="1080" height="1440">
+    </div>
+    <nav aria-label="Main navigation">
+      <a href="#about" class="active" aria-current="location">About <span aria-hidden="true">01</span></a>
+      <a href="#education">Education <span aria-hidden="true">02</span></a>
+      <a href="#research">Research <span aria-hidden="true">03</span></a>
+      <a href="#publications">Publications <span aria-hidden="true">04</span></a>
+      <a href="#internships">Internships <span aria-hidden="true">05</span></a>
+    </nav>
+    <div class="sidebar-bottom">
+      <div class="socials">
+        <a href="https://github.com/Glycineeeee" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        <a href="https://www.linkedin.com/in/jingmiao-zhang-4011a4331" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+      </div>
+      <div class="bottom-row"><span>Los Angeles, CA</span><button id="theme-toggle" type="button" aria-label="Switch to dark theme" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.2A8.7 8.7 0 0 1 9.8 3.5 8.8 8.8 0 1 0 20.5 14.2Z"/></svg></button></div>
+    </div>
+  </aside>
+
+  <main id="main">
+    <section class="hero" id="about" aria-label="About Jingmiao">
+      <p class="intro">I’m Jingmiao, a PhD student at the <a href="https://www.ucla.edu/" target="_blank" rel="noopener noreferrer">University of California, Los Angeles</a>, advised by <a href="https://www.ytian.info/" target="_blank" rel="noopener noreferrer">Prof. Yuan Tian</a>.</p>
+      <p class="bio">My research focuses on the security of LLM agents and privacy-preserving machine learning. I study how intelligent systems can protect sensitive information and remain secure while interacting with users, tools, and their environments.</p>
+      <p class="about-email"><span>Email</span> [firstname][lastname]@ucla.edu</p>
+      <div class="availability"><span class="status-dot" aria-hidden="true"></span><div><strong>Seeking Summer 2027 Research Internships</strong><span>AI security · LLM agents · Machine learning privacy</span></div></div>
+    </section>
+
+    <section id="education" aria-labelledby="education-title">
+      <div class="section-header"><span class="section-index">02 /</span><h2 id="education-title">Education</h2></div>
+      <div class="timeline education-list"><article><span class="time">2026 — Present</span><h4>University of California, Los Angeles</h4><p>PhD, Electrical and Computer Engineering</p></article><article><span class="time">2023 — 2026</span><h4>University of Science and Technology of China</h4><p>Master of Engineering, Computer Science and Technology</p></article><article><span class="time">2019 — 2023</span><h4>University of Science and Technology of China</h4><p>Bachelor of Engineering, Information Security</p></article></div>
+    </section>
+
+    <section id="research" aria-labelledby="research-title">
+      <div class="section-header"><span class="section-index">03 /</span><h2 id="research-title">Research</h2></div>
+      <div class="research-grid">
+        <article><span class="research-number">01</span><h3>LLM Agent Security</h3><p>Evaluating agent behavior in realistic executable environments, with an emphasis on instruction attacks and agent–tool interactions.</p><span class="topic">AgentCanary</span></article>
+        <article><span class="research-number">02</span><h3>Speech &amp; Data Privacy</h3><p>Protecting speaker identity and sensitive content while allowing authorized users to recover the information they need.</p><span class="topic">SpeechGuard</span></article>
+        <article><span class="research-number">03</span><h3>Multimodal Systems</h3><p>Combining signals across modalities for location understanding and imperceptible screen-camera communication.</p><span class="topic">AMoS · InvisiCode</span></article>
+      </div>
+    </section>
+
+    <section id="publications" aria-labelledby="publications-title">
+      <div class="section-header"><span class="section-index">04 /</span><h2 id="publications-title">Publications</h2></div>
+      <div class="filters" role="group" aria-label="Filter publications by research area">
+        <button class="selected" data-filter="all" aria-pressed="true">All work <span>4</span></button>
+        <button data-filter="privacy" aria-pressed="false">Security &amp; Privacy <span>2</span></button>
+        <button data-filter="systems" aria-pressed="false">Multimodal Systems <span>2</span></button>
+      </div>
+      <div id="publication-status" class="sr-only" role="status" aria-live="polite"></div>
+      <div class="publication-list">
+        <article class="publication" data-category="privacy">
+          <div class="pub-year">2025</div><div class="pub-content"><div class="pub-meta"><span class="venue">USENIX SECURITY</span><span>First author</span></div><h3><a href="https://www.usenix.org/system/files/usenixsecurity25-zhang-jingmiao.pdf" target="_blank" rel="noopener noreferrer">SpeechGuard: Recoverable and Customizable Speech Privacy Protection</a></h3><p class="authors"><strong>Jingmiao Zhang</strong>, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li</p><p class="pub-summary">Recoverable speech privacy with customizable protection and hierarchical access control.</p><div class="pub-links"><a href="https://www.usenix.org/system/files/usenixsecurity25-zhang-jingmiao.pdf" target="_blank" rel="noopener noreferrer">Paper ↗</a><a href="https://github.com/Glycineeeee/SpeechGuard" target="_blank" rel="noopener noreferrer">Code ↗</a><a href="https://www.usenix.org/system/files/sec25_slides_zhang-jingmiao.pdf" target="_blank" rel="noopener noreferrer">Slides ↗</a><a href="https://youtu.be/Y3NhVXaG31A" target="_blank" rel="noopener noreferrer">Talk ↗</a></div></div>
+        </article>
+        <article class="publication" data-category="privacy">
+          <div class="pub-year">2025</div><div class="pub-content"><div class="pub-meta"><span class="venue">USENIX SECURITY</span></div><h3><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/wang-zhiqiang" target="_blank" rel="noopener noreferrer">Task-Oriented Training Data Privacy Protection for Cloud-based Model Training</a></h3><p class="authors">Zhiqiang Wang, Jiahui Hou, Haifeng Sun, <strong>Jingmiao Zhang</strong>, Yunhao Yao, Haikuo Yu, Xiang-Yang Li</p><p class="pub-summary">Training-data privacy protection adapted to machine learning tasks.</p><div class="pub-links"><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/wang-zhiqiang" target="_blank" rel="noopener noreferrer">Paper ↗</a></div></div>
+        </article>
+        <article class="publication" data-category="systems">
+          <div class="pub-year">2025</div><div class="pub-content"><div class="pub-meta"><span class="venue">IEEE INFOCOM</span></div><h3><a href="https://ieeexplore.ieee.org/abstract/document/11044731" target="_blank" rel="noopener noreferrer">AMoS: Autonomous Multimodal POI Standardization without Extra Annotation</a></h3><p class="authors">Suyuan Liu, <strong>Jingmiao Zhang</strong>, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li</p><p class="pub-summary">Multimodal point-of-interest standardization using text, positioning, and Wi-Fi signals.</p><div class="pub-links"><a href="https://ieeexplore.ieee.org/abstract/document/11044731" target="_blank" rel="noopener noreferrer">Paper ↗</a><a href="https://github.com/lsysue/AMoS" target="_blank" rel="noopener noreferrer">Code ↗</a></div></div>
+        </article>
+        <article class="publication" data-category="systems">
+          <div class="pub-year">2025</div><div class="pub-content"><div class="pub-meta"><span class="venue">IEEE/ACM IWQoS</span><span>Co-first author</span></div><h3><a href="https://ieeexplore.ieee.org/document/11143478" target="_blank" rel="noopener noreferrer">InvisiCode: Boosting Intra-Frame Screen-Camera Communication by Breaking Through Noise Limitations</a></h3><p class="authors">Haikuo Yu*, <strong>Jingmiao Zhang*</strong>, Haohua Du, Kaiwen Guo, Xiang-Yang Li <span class="equal">(* equal contribution)</span></p><p class="pub-summary">Noise-aware, imperceptible information transmission from screens to cameras.</p><div class="pub-links"><a href="https://ieeexplore.ieee.org/document/11143478" target="_blank" rel="noopener noreferrer">Paper ↗</a><a href="https://github.com/haikuoY/InvisiCode" target="_blank" rel="noopener noreferrer">Code ↗</a></div></div>
+        </article>
+      </div>
+      <article class="ongoing"><span class="label">MANUSCRIPT IN SUBMISSION</span><h3>AgentCanary: A Security Evaluation Framework for Autonomous AI Agents in Real Executable Environments</h3><p>Evaluating the Security of Autonomous LLM Agents in Realistic Executable Environments.</p></article>
+    </section>
+
+    <section id="internships" aria-labelledby="internships-title">
+      <div class="section-header"><span class="section-index">05 /</span><h2 id="internships-title">Internships</h2></div>
+      <div class="internship-list">
+        <article class="experience"><span class="time">Apr 2026 — Aug 2026</span><h4>Ant Group / Alipay</h4><p class="position">Algorithm Engineer Intern</p><p class="experience-detail">Researched long-horizon indirect prompt injection attacks against agent systems and contributed to AgentCanary, a framework for evaluating the security of autonomous LLM agents in realistic executable environments.</p></article>
+        <article class="experience"><span class="time">Sep 2023 — Mar 2025</span><h4>NIO</h4><p class="position">Algorithm Engineer Intern</p><p class="experience-detail">Designed privacy protection for speech data from in-cabin and after-sales services, with permission-based recovery of authorized information.</p></article>
+        <article class="experience"><span class="time">Jul 2024 — Oct 2024</span><h4>Huawei</h4><p class="position">Algorithm Engineer Intern</p><p class="experience-detail">Simulated full and incremental erasure-coding workflows for distributed storage. Developed I/O aggregation and cost-comparison algorithms, along with load-balanced disk scheduling strategies.</p></article>
+      </div>
+    </section>
+
+    <footer><span>© 2026 Jingmiao Zhang</span><a href="#about">Back to top ↑</a></footer>
+  </main>
+</div>
+</body>
+</html>
